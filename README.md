@@ -1,2 +1,3 @@
-# apcupsd-exporter
-Prometheus exporter for apcupsd
+# docker-apcupsd-exporter
+
+Docker container image to run Prometheus exporter for apcupsd
